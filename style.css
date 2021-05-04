@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: aqua;
+        
+}
+
+.img1{
+   display: flex;
+    justify-content: center;
+    
+}
+
+div{
+margin-top: 15px;
+}
+
+.section{
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: azure;
+}
+
+img{
+    width: 600px;
+    height: 500px;
+}
